@@ -6,4 +6,4 @@ some description
 Do some exercises
 
 ##Local Changes
-1.open index.html in your favorite brouser.
+1.open index.html in your favorite browser.
